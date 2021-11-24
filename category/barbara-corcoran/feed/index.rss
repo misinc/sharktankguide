@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Barbara Corcoran &#8211; Shark Tank Guide</title>
+	<atom:link href="https://shark-tank-guide.mystagingwebsite.com/category/barbara-corcoran/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shark-tank-guide.mystagingwebsite.com</link>
+	<description>Some of my favorite Shark Tank products</description>
+	<lastBuildDate>Tue, 04 Dec 2018 17:31:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">195127237</site>	<item>
+		<title>Prank-O</title>
+		<link>https://shark-tank-guide.mystagingwebsite.com/2018/12/prank-o/</link>
+					<comments>https://shark-tank-guide.mystagingwebsite.com/2018/12/prank-o/#respond</comments>
+		
+		<dc:creator><![CDATA[sharktankguide]]></dc:creator>
+		<pubDate>Mon, 03 Dec 2018 23:42:34 +0000</pubDate>
+				<category><![CDATA[Barbara Corcoran]]></category>
+		<category><![CDATA[Season 10]]></category>
+		<category><![CDATA[S10E07]]></category>
+		<guid isPermaLink="false">https://shark-tank-guide.mystagingwebsite.com/?p=31</guid>
+
+					<description><![CDATA[I fell for this company as soon as I heard their pitch on Shark Tank. How could you not love a business that sells an empty box for $8? One of the founders worked at The Onion, the other is an experienced Graphic Designer. Together they have created a company that sells prank gift boxes.... <div class="link-more"><a href="https://shark-tank-guide.mystagingwebsite.com/2018/12/prank-o/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[<p>I fell for this company as soon as I heard their pitch on Shark Tank. How could you not love a business that sells an empty box for $8?</p>
+<p>One of the founders worked at The Onion, the other is an experienced Graphic Designer. Together they have created a company that sells prank gift boxes. You buy a box for a prank gift and then include your real gift inside. What a brilliant idea!</p>
+<p>They were featured on Season 10, Episode 7 and received multiple offers but ultimately accepted a deal from Barbara. I can’t wait to see how their company does.</p>
+<p><a href="https://amzn.to/2SxEGBR" target="_blank" rel="noopener">Visit Prank-O on Amazon</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://shark-tank-guide.mystagingwebsite.com/2018/12/prank-o/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31</post-id>	</item>
+	</channel>
+</rss>

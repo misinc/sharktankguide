@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>S04E07 &#8211; Shark Tank Guide</title>
+	<atom:link href="https://shark-tank-guide.mystagingwebsite.com/tag/s04e07/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shark-tank-guide.mystagingwebsite.com</link>
+	<description>Some of my favorite Shark Tank products</description>
+	<lastBuildDate>Tue, 04 Dec 2018 17:30:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">195127237</site>	<item>
+		<title>Scrub Daddy</title>
+		<link>https://shark-tank-guide.mystagingwebsite.com/2018/12/scrub-daddy/</link>
+					<comments>https://shark-tank-guide.mystagingwebsite.com/2018/12/scrub-daddy/#respond</comments>
+		
+		<dc:creator><![CDATA[sharktankguide]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2018 16:18:46 +0000</pubDate>
+				<category><![CDATA[Lori Greiner]]></category>
+		<category><![CDATA[Season 4]]></category>
+		<category><![CDATA[S04E07]]></category>
+		<guid isPermaLink="false">https://shark-tank-guide.mystagingwebsite.com/?p=40</guid>
+
+					<description><![CDATA[Who doesn’t love a sponge with a smiley face? Apparently everyone does! After getting a deal on Shark Tank with Lori Greiner ($200,000 for 20%), Scrub Daddy has gone on to sell more than $170,000,000! I love using the Scrub Daddy at home. It makes washing dishes easier and more fun. Order your own Scrub... <div class="link-more"><a href="https://shark-tank-guide.mystagingwebsite.com/2018/12/scrub-daddy/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Who doesn’t love a sponge with a smiley face? Apparently everyone does! After getting a deal on Shark Tank with Lori Greiner ($200,000 for 20%), Scrub Daddy has gone on to sell more than $170,000,000!</p>
+<p>I love using the Scrub Daddy at home. It makes washing dishes easier and more fun.</p>
+<p>Order your own Scrub Daddy on <img src="https://ir-na.amazon-adsystem.com/e/ir?t=SharkTankDotGuide-20&l=alb&o=1&a=B00J420JEC" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" />.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://shark-tank-guide.mystagingwebsite.com/2018/12/scrub-daddy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40</post-id>	</item>
+	</channel>
+</rss>

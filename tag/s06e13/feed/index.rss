@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>S06E13 &#8211; Shark Tank Guide</title>
+	<atom:link href="https://shark-tank-guide.mystagingwebsite.com/tag/s06e13/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shark-tank-guide.mystagingwebsite.com</link>
+	<description>Some of my favorite Shark Tank products</description>
+	<lastBuildDate>Mon, 22 Apr 2019 15:40:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">195127237</site>	<item>
+		<title>Bantam Bagels</title>
+		<link>https://shark-tank-guide.mystagingwebsite.com/2018/12/bantam-bagels/</link>
+					<comments>https://shark-tank-guide.mystagingwebsite.com/2018/12/bantam-bagels/#respond</comments>
+		
+		<dc:creator><![CDATA[sharktankguide]]></dc:creator>
+		<pubDate>Tue, 04 Dec 2018 17:08:34 +0000</pubDate>
+				<category><![CDATA[Lori Greiner]]></category>
+		<category><![CDATA[Season 6]]></category>
+		<category><![CDATA[S06E13]]></category>
+		<guid isPermaLink="false">https://shark-tank-guide.mystagingwebsite.com/?p=49</guid>
+
+					<description><![CDATA[I love bagels, but never even thought about making a stuffed bagel out of the hole! Well thanks to&#160;Nick and Elyse Oleksak we didn’t have to! Before appearing on Shark Tank they had sold about $200,000 worth of bagels out of their NYC retail store. Since making a deal with Lori Greiner their sales have... <div class="link-more"><a href="https://shark-tank-guide.mystagingwebsite.com/2018/12/bantam-bagels/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>I love bagels, but never even thought about making a stuffed bagel out of the hole! Well thanks to&nbsp;Nick and Elyse Oleksak we didn’t have to!</p>
+
+
+
+<p>Before appearing on Shark Tank they had sold about $200,000 worth of bagels out of their NYC retail store. Since making a deal with Lori Greiner their sales have gone over $20,000,000 and their products are sold at over 20,000 stores including 1,500 Starbucks locations, Delta Airlines and several hotel chains.&nbsp;</p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://shark-tank-guide.mystagingwebsite.com/wp-content/uploads/2018/12/BBSharkTankVideo.mp4"></video><figcaption>Watch the original Shark Tank pitch by Bantam Bagels<br></figcaption></figure>
+
+
+
+<p><a href="https://www.nosh.com/news/2018/bantam-bagels-acquired-for-34m-we-will-maintain-authenticity-co-founder-says">In October 2018 Bantam Bagels announced they had been purchased by T. Marzetti Company, a wholly owned subsidiary of Lancaster Colony Corporation for $34M. </a></p>
+
+
+
+<p>If you haven’t tried Bantam Bagels yet you can order them direct from <a href="https://amzn.to/2Ea64T2">Amazon</a>.</p>
+
+
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://shark-tank-guide.mystagingwebsite.com/2018/12/bantam-bagels/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://shark-tank-guide.mystagingwebsite.com/wp-content/uploads/2018/12/BBSharkTankVideo.mp4" length="49879648" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
+	</channel>
+</rss>
